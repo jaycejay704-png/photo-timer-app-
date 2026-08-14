@@ -1,0 +1,1 @@
+{"path":"android/app/src/main/AndroidManifest.xml","mode":"merge","content":"<manifest xmlns:android=\"http://schemas.android.com/apk/res/android\" package=\"com.example.photo_timer_app\">\n    <application\n        android:label=\"photo_timer_app\"\n        android:requestLegacyExternalStorage=\"true\">\n        <!-- other config -->\n    </application>\n</manifest>"}

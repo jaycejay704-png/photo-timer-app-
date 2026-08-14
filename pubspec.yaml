@@ -1,0 +1,27 @@
+name: pubspec.yaml
+
+name: photo_timer_app
+description: A simple Flutter app to take a photo and lock it behind a timer, with Grok integration.
+publish_to: 'none'
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.0
+  path_provider: ^2.0.0
+  flutter_secure_storage: ^8.0.0
+  hive: ^2.0.0
+  hive_flutter: ^1.1.0
+  flutter_local_notifications: ^9.0.0
+  flutter_windowmanager: ^0.2.0
+  http: ^0.13.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true

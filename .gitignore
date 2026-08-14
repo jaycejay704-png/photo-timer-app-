@@ -1,0 +1,1 @@
+{"path":".gitignore","content":"/build\n/.dart_tool\n/.idea\n/.vscode\n**/pubspec.lock\n**/flutter_export_environment.sh\n"}
